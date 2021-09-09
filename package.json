@@ -1,0 +1,16 @@
+{
+  "name": "touchsoft-test-assignment-medunetski",
+  "version": "1.0.0",
+  "description": "Consumer class implementation. Test assignment for TouchSoft from Maksim Medunetski.",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Maksim Medunetski",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.1",
+    "jest-allure": "^0.1.3"
+  }
+}
